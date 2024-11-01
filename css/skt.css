@@ -1,0 +1,45 @@
+.skt_item {
+	margin: 0 0 24px 0;
+	overflow: hidden;
+	width: 100%;
+	clear:left;
+}
+.skt_image_cont {
+	float: left;
+	height: 88px;
+	margin: 4px 20px 0 5px;
+	width: 88px;
+}
+.skt_image_cont img {
+	border: 2px solid #CCCCCC;
+}
+.skt_content_cont {
+	float: left;
+	width: 330px;
+}
+.skt_content_cont p {
+	margin-bottom: 0;
+}
+.skt_testimonial {
+	color: #555555;
+	font-size: 12px;
+	line-height: 21px;
+	margin: 0 0 12px;
+}
+.skt_client_name {
+	font-weight: bold;
+	margin-top: 10px;
+}
+.skt_client_company {
+	margin: 0;
+	color: #00AEEF;
+	font-size: 12px;
+}
+.skt_client_company a {
+	color: #00AEEF;
+	font-size: 12px;
+	text-decoration: none;
+}
+.skt_client_company a:hover {
+	color: #555555;
+}

@@ -1,0 +1,1 @@
+<a href="http://help.spottedkoi.com/categories/sk-testimonials">Plugin Support</a> | <a href="http://spottedkoi.com/plugins" target="_blank">Other Spotted Koi Plugins</a>
